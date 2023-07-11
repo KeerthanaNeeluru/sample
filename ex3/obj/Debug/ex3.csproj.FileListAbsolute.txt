@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\ex3\ex3\bin\Debug\ex3.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\ex3\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\ex3\ex3\obj\Debug\ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\ex3\ex3\obj\Debug\ex3.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\practice exercises\c#\jul11\ex3\ex3\obj\Debug\ex3.pdb
